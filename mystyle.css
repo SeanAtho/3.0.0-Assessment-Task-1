@@ -70,6 +70,7 @@ body {
   flex: 30%;
   background-color: #1C1E1F;
   padding: 20px;
+  color: white;
 }
 
 /* Main column */
@@ -78,6 +79,7 @@ body {
   flex: 70%;
   background-color: #4C4D4D;
   padding: 20px;
+  color: white;
 }
 
 /* Fake image, just for this example */
