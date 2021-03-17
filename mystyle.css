@@ -68,18 +68,22 @@ body {
 .side {
   -ms-flex: 30%; /* IE10 */
   flex: 30%;
-  background-color: #1C1E1F;
+  background-color: #0B4459;
   padding: 20px;
   color: white;
+  text-indent: 0px;
+  line-height: 1.5;
 }
 
 /* Main column */
 .main {
   -ms-flex: 70%; /* IE10 */
   flex: 70%;
-  background-color: #4C4D4D;
+  background-color: #CAC6AF;
   padding: 20px;
-  color: white;
+  color: black;
+  text-indent: 0px;
+  line-height: 1.5;
 }
 
 /* Fake image, just for this example */
